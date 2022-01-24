@@ -1,0 +1,71 @@
+
+body{
+    
+    background-color: rgb(245, 243, 243);
+    font-family: Arial, Helvetica;
+    font-size: 15px;
+    display: flex;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.tabela1{
+    text-align:justify;
+    height: 100px;
+    width: 100% ;
+    border-collapse: collapse;
+    border-style:solid;
+    border-width:5px;
+    border-color:#e67171;
+    font-size: 20px;
+
+}
+.H1{
+    border-bottom: 1px solid #000000;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding-top: 20px;
+    margin-right: 15px;
+    font-size: 26px;
+    background-color: #ee5f5f;
+}
+
+.tabela2{
+    height: 100px;
+    width: 100%;
+    border-collapse: collapse;
+    border-style:solid;
+    border-width:5px;
+    border-color:#1b4ae2;
+    font-size: 20px;
+
+}
+.H2{
+    width: 100%;
+    margin-right: 15px;
+    font-size: 26px;
+    background-color: #1b4ae2;
+}
+
+.tabela3{
+    height: 100px;
+    width: 100%;
+    border-collapse: collapse;
+    border-style:solid;
+    border-width:5px;
+    border-color:#e6ff0a;
+    font-size: 20px;
+
+}
+.H3{
+    width: 100%;
+    margin-right: 15px;
+    font-size: 26px;
+    background-color: #e6ff0a;
+}
+
+.H4{
+    margin-right: 15px;
+    font-size: 26px;
+    background-color: #e43939;
+}
